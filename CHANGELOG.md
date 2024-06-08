@@ -2,6 +2,17 @@
 
 
 
+## v0.2.1 (2024-06-08)
+
+### Fix
+
+* fix: update dockerfile ([`629f593`](https://github.com/mandragora-hub/pdfutils/commit/629f593534f50e1ff0fa245178f8d4650ca535f7))
+
+### Unknown
+
+* fix making container trust in proxy headers ([`12576be`](https://github.com/mandragora-hub/pdfutils/commit/12576be83e69733452d188b33b0b34f3f3e53b32))
+
+
 ## v0.2.0 (2024-06-08)
 
 ### Feature
