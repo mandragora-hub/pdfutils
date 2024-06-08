@@ -33,10 +33,13 @@ def extract_pdf_metadata(content):
         raise HTTPException(status_code=400, detail="Error reading pdf  .")
 
     return {"pages": number_of_pages,
-            "word_count": word_count,
-            "readtime": readtime_millisecond,
+            "wordCount": word_count,
+            "readTime": readtime_millisecond,
             "metadata": {
                 "author": metadata.author,
+                "creationDate": metadata.creation_date,
+                "keywords": metadata.keywords,
+                "modificationDate": metadata.modification_date,
                 "creator": metadata.creator,
                 "producer": metadata.producer,
                 "subject": metadata.subject,
