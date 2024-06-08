@@ -38,7 +38,7 @@ def extract_pdf_metadata(content):
             "metadata": {
                 "author": metadata.author,
                 "creationDate": metadata.creation_date,
-                "keywords": metadata.keywords,
+                "keywords": metadata.get("/Keywords"),
                 "modificationDate": metadata.modification_date,
                 "creator": metadata.creator,
                 "producer": metadata.producer,
