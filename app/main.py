@@ -30,7 +30,7 @@ def extract_pdf_metadata(content):
         readtime_millisecond = readtime.of_text(text).seconds * 1000
         word_count = len(text.split())
     except:
-        raise HTTPException(status_code=400, detail="Error reading pdf.")
+        raise HTTPException(status_code=400, detail="Error reading pdf  .")
 
     return {"pages": number_of_pages,
             "word_count": word_count,

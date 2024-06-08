@@ -1,0 +1,9 @@
+services:
+  pdfutils:
+    image: pdfutils
+    container_name: pdfutils
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 3000:80
