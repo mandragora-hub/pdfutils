@@ -2,6 +2,17 @@
 
 
 
+## v0.2.0 (2024-06-08)
+
+### Feature
+
+* feat: update response name format ([`4ed67dc`](https://github.com/mandragora-hub/pdfutils/commit/4ed67dc0293d7efbd45912aa0340d48f659c0cf4))
+
+### Unknown
+
+* Create docker-publish.yml ([`d83d04e`](https://github.com/mandragora-hub/pdfutils/commit/d83d04e064344b64b532de4c7b55b41eaf8e7b3f))
+
+
 ## v0.1.0 (2024-06-08)
 
 ### Feature
