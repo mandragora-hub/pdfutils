@@ -3,6 +3,7 @@ import urllib3
 import readtime
 from typing import Annotated
 from fastapi import FastAPI, Query, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pypdf import PdfReader
 from starlette.responses import FileResponse
 
@@ -47,6 +48,15 @@ def extract_pdf_metadata(content):
 
 
 app = FastAPI()
+
+origins = ["*"] # allow all origins
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 @app.get("/")
