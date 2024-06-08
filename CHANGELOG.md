@@ -2,6 +2,13 @@
 
 
 
+## v0.3.0 (2024-06-08)
+
+### Feature
+
+* feat: allow all cors origin ([`73aef66`](https://github.com/mandragora-hub/pdfutils/commit/73aef660a97c9aca9561502b56bea98af26ada7a))
+
+
 ## v0.2.2 (2024-06-08)
 
 ### Fix
