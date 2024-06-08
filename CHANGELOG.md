@@ -2,6 +2,13 @@
 
 
 
+## v0.2.2 (2024-06-08)
+
+### Fix
+
+* fix: error on extract metadata keywords ([`6f8faff`](https://github.com/mandragora-hub/pdfutils/commit/6f8faffcccb16c8083e96a7f7319cdc513475d90))
+
+
 ## v0.2.1 (2024-06-08)
 
 ### Fix
