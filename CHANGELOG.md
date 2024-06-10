@@ -2,6 +2,13 @@
 
 
 
+## v0.4.0 (2024-06-10)
+
+### Feature
+
+* feat: update README.md ([`4233faf`](https://github.com/mandragora-hub/pdfutils/commit/4233faf1eb6e759bb199b234854bf6da12d66ae0))
+
+
 ## v0.3.0 (2024-06-08)
 
 ### Feature
