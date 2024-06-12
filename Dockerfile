@@ -1,4 +1,4 @@
-FROM python:3.10
+FROM python:3.10-slim
 
 # Use this image  
 # FROM gcr.io/distroless/python3-debian12
