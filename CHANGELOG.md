@@ -2,6 +2,13 @@
 
 
 
+## v0.4.1 (2024-06-12)
+
+### Fix
+
+* fix: reduce image size using slim python ([`c7e2791`](https://github.com/mandragora-hub/pdfutils/commit/c7e279138b41b3a10d1d19b319f72c2ebb85257f))
+
+
 ## v0.4.0 (2024-06-10)
 
 ### Feature
