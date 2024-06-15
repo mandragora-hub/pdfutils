@@ -2,6 +2,13 @@
 
 
 
+## v0.5.0 (2024-06-15)
+
+### Feature
+
+* feat: move function to another files ([`e5c1f2a`](https://github.com/mandragora-hub/pdfutils/commit/e5c1f2a767b3926ef9554a3e73dd44ccc19ff3f8))
+
+
 ## v0.4.1 (2024-06-12)
 
 ### Fix
