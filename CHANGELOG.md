@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.7.0 (2024-06-23)
+
+### Feature
+
+* feat: install pipenv as package manager ([`85be97b`](https://github.com/mandragora-hub/pdfutils/commit/85be97bf53b06360ef7a26f9de8b4203a1f8fb60))
+
 ## v0.6.1 (2024-06-23)
 
 ### Fix
