@@ -1,6 +1,10 @@
 # CHANGELOG
 
+## v0.6.0 (2024-06-23)
 
+### Feature
+
+* feat: using cache in memory ([`4e1dc9d`](https://github.com/mandragora-hub/pdfutils/commit/4e1dc9d79f37a160bc4c4b61630b544419fc5756))
 
 ## v0.5.0 (2024-06-15)
 
@@ -8,13 +12,11 @@
 
 * feat: move function to another files ([`e5c1f2a`](https://github.com/mandragora-hub/pdfutils/commit/e5c1f2a767b3926ef9554a3e73dd44ccc19ff3f8))
 
-
 ## v0.4.1 (2024-06-12)
 
 ### Fix
 
 * fix: reduce image size using slim python ([`c7e2791`](https://github.com/mandragora-hub/pdfutils/commit/c7e279138b41b3a10d1d19b319f72c2ebb85257f))
-
 
 ## v0.4.0 (2024-06-10)
 
@@ -22,20 +24,17 @@
 
 * feat: update README.md ([`4233faf`](https://github.com/mandragora-hub/pdfutils/commit/4233faf1eb6e759bb199b234854bf6da12d66ae0))
 
-
 ## v0.3.0 (2024-06-08)
 
 ### Feature
 
 * feat: allow all cors origin ([`73aef66`](https://github.com/mandragora-hub/pdfutils/commit/73aef660a97c9aca9561502b56bea98af26ada7a))
 
-
 ## v0.2.2 (2024-06-08)
 
 ### Fix
 
 * fix: error on extract metadata keywords ([`6f8faff`](https://github.com/mandragora-hub/pdfutils/commit/6f8faffcccb16c8083e96a7f7319cdc513475d90))
-
 
 ## v0.2.1 (2024-06-08)
 
@@ -47,7 +46,6 @@
 
 * fix making container trust in proxy headers ([`12576be`](https://github.com/mandragora-hub/pdfutils/commit/12576be83e69733452d188b33b0b34f3f3e53b32))
 
-
 ## v0.2.0 (2024-06-08)
 
 ### Feature
@@ -57,7 +55,6 @@
 ### Unknown
 
 * Create docker-publish.yml ([`d83d04e`](https://github.com/mandragora-hub/pdfutils/commit/d83d04e064344b64b532de4c7b55b41eaf8e7b3f))
-
 
 ## v0.1.0 (2024-06-08)
 
