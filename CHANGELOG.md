@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.6.1 (2024-06-23)
+
+### Fix
+
+* fix:  update requirements.txt ([`05a109b`](https://github.com/mandragora-hub/pdfutils/commit/05a109b78337d3d297781b35d91dbce0fe6483a0))
+
 ## v0.6.0 (2024-06-23)
 
 ### Feature
