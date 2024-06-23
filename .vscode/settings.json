@@ -1,7 +1,9 @@
 {
     "cSpell.words": [
         "fastapi",
+        "pipenv",
         "pypdf",
-        "readtime"
+        "readtime",
+        "virtualenv"
     ]
 }
